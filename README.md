@@ -1,6 +1,6 @@
 # Namaste! 🙏
 
-![Logo](https://raw.githubusercontent.com/HacktivistRO/SubSleuth/main/subsleuth_logo.jpg)
+![Logo](https://raw.githubusercontent.com/HacktivistRO/SubSleuth/main/static/subsleuth_logo.jpg)
 
 ## About: **SubSleuth**: A Passive Subdomain Enumeration.
 
