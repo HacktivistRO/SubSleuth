@@ -2,9 +2,13 @@
 
 ![Logo](https://raw.githubusercontent.com/HacktivistRO/SubSleuth/main/static/subsleuth_logo.jpg)
 
-## About: **SubSleuth**: A Passive Subdomain Enumeration.
+## About **SubSleuth**: A Passive Subdomain Enumeration.
 
-SubSleuth is a bash script that automates the process of enumerating subdomains using the following tools:
+SubSleuth, is a bash tool which automates the subdomain enumeration process using various tools.
+
+With SubSleuth, you can effortlessly track down all the hidden subdomains of a target domain, saving you time and effort. And with its ability to filter out duplicates and check for dead subdomains, you can be sure that your enumeration results are as comprehensive and accurate as possible So why wait? Give SubSleuth a try today and supercharge your subdomain enumeration process! 
+
+SubSleuth automates the subdomain enumeration process using the following tools:
 
 * Cero
 * crt.sh
