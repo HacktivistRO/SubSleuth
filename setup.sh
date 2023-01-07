@@ -30,6 +30,20 @@ sudo apt update
 sudo apt install wget
 sudo apt install curl
 
+# Install Go Language
+echo -e "${BLUE}Installing Go Language now!${BWHITE}"
+mkdir go-lang
+cd go-lang
+wget https://go.dev/dl/go1.19.3.linux-amd64.tar.gz
+rm -rf /usr/local/go
+tar -C /usr/local -xzf go1.19.3.linux-amd64.tar.gz
+export PATH=$PATH:/usr/local/go/bin
+echo 'export PATH=$PATH:/usr/local/go/bin' >> /root/.bash_profile
+source /root/.bash_profile
+cd ../
+rm -rf go-lang
+
+
 # Install Cero
 echo -e "${BLUE}Installing Cero now!${BWHITE}"
 wget https://github.com/glebarez/cero/releases/download/v1.3.0/cero-linux-amd64
