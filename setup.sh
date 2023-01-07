@@ -25,6 +25,11 @@ intro
 sleep 3
 echo -e "${CYAN}Installing the tools required for SubSleuth${BWHITE}"
 
+
+sudo apt update
+sudo apt install wget
+sudo apt install curl
+
 # Install Cero
 echo -e "${BLUE}Installing Cero now!${BWHITE}"
 wget https://github.com/glebarez/cero/releases/download/v1.3.0/cero-linux-amd64
