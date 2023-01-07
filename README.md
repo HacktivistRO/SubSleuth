@@ -48,6 +48,12 @@ Once Homebrew is installed, run the following command to install wget on Mac:
 
 `brew install wget`
 
+Once done, install OpenSSL in Mac using:
+
+`brew install openssl`
+
+It will be used for subdomain enumeration.
+
 ## Usage
 
 To run SubSleuth, use the following command:
