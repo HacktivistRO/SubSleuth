@@ -47,7 +47,7 @@ rm -rf go-lang
 # Install Cero
 echo -e "${BLUE}Installing Cero now!${BWHITE}"
 wget https://github.com/glebarez/cero/releases/download/v1.3.0/cero-linux-amd64
-mv cero-linux-amd64 cero
+sudo mv cero-linux-amd64 cero
 chmod +x cero
 sudo mv cero /usr/bin
 echo -e "${GREEN}Cero installed.${BWHITE}"
