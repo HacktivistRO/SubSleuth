@@ -36,24 +36,8 @@ To install the required tools, run the setup.sh script, using:
 
 Now your machine is ready to run: SubSleuth!
 
-## Special instructions for Mac users
-
-You will require wget and curl to run setup.sh.
-
-Run the following command to install Homebrew on Mac:
-
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-
-Once Homebrew is installed, run the following command to install wget on Mac:
-
-`brew install wget`
-
-Once done, install OpenSSL in Mac using:
-
-`brew install openssl`
-
-It will be used for subdomain enumeration.
-
+ ### This tool has been tested on Linux machines. For Mac users a future update will be released with additional instructions on how to setup. Till the time, please use this script on a Linux or a Windows machine.
+ 
 ## Usage
 
 To run SubSleuth, use the following command:
