@@ -2,7 +2,7 @@
 
 ![Logo](https://raw.githubusercontent.com/HacktivistRO/SubSleuth/main/static/subsleuth_logo.jpg)
 
-## About **SubSleuth**: A Passive Subdomain Enumeration.
+## **SubSleuth**: A Passive Subdomain Enumeration.
 
 ### SubSleuth, is a bash tool which automates the subdomain enumeration process using various tools.
 
