@@ -31,8 +31,8 @@ Second, go into SubSleuth directory, using:
 
 `cd SubSleuth`
 
-To install the required tools, run the setup.sh script, using:
-`bash setup.sh`
+To install the required tools, run the setup.sh script as a root user, using:
+`sudo bash setup.sh`
 
 Now your machine is ready to run: SubSleuth!
 
@@ -42,7 +42,7 @@ Now your machine is ready to run: SubSleuth!
 
 To run SubSleuth, use the following command:
 
-`bash subsleuth.sh <rohan-target-website-here.com>`
+`sudo bash subsleuth.sh <rohan-target-website-here.com>`
 
 Replace <rohan-target-website-here.com> with the target domain. The script will output a list of subdomains to a file named subdomains_rohan-target-website-here.com.txt inside a folder rohan-target-website-here.com
 
