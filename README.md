@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=HacktivistRO&style=for-the-badge)
 
-![Logo](https://raw.githubusercontent.com/HacktivistRO/SubSleuth/main/static/subsleuth_logo.jpg)
+![subsleuth_logo](https://github.com/HacktivistRO/SubSleuth/assets/49992837/a3fb794a-5587-4b37-9010-fa11584ffd90)
+
 
 ## **SubSleuth**: A Passive Subdomain Enumeration.
 
