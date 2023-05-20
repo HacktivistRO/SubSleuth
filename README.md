@@ -1,5 +1,7 @@
 # Namaste! 🙏
 
+![](https://komarev.com/ghpvc/?username=HacktivistRO&style=for-the-badge)
+
 ![Logo](https://raw.githubusercontent.com/HacktivistRO/SubSleuth/main/static/subsleuth_logo.jpg)
 
 ## **SubSleuth**: A Passive Subdomain Enumeration.
