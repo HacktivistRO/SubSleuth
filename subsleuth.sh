@@ -16,8 +16,8 @@ echo -e "${BWHITE} / ___| _   _| |__/ ___|| | ___ _   _| |_| |__  "
 echo -e "${BWHITE} \___ \| | | | '_ \___ \| |/ _ \ | | | __| '_ \ "
 echo -e "${BWHITE}   __) | |_| | |_) |__) | |  __/ |_| | |_| | | |"
 echo -e "${BWHITE} |____/ \__,_|_.__/____/|_|\___|\__,_|\__|_| |_|"
-echo -e "${BWHITE}			-By HacktivistRO"
-echo -e ""
+echo -e "${BWHITE}        			-By HacktivistRO"
+echo -e "${BWHITE}Enumerating Subdomains since 2022"
 echo -e "${YELLOW}Performing subdomain enumeration for: $1${BWHITE}"
 }
 
