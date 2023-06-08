@@ -16,12 +16,12 @@ echo -e "${BWHITE} / ___| _   _| |__/ ___|| | ___ _   _| |_| |__  "
 echo -e "${BWHITE} \___ \| | | | '_ \___ \| |/ _ \ | | | __| '_ \ "
 echo -e "${BWHITE}   __) | |_| | |_) |__) | |  __/ |_| | |_| | | |"
 echo -e "${BWHITE} |____/ \__,_|_.__/____/|_|\___|\__,_|\__|_| |_|"
-echo -e "${BWHITE}			-By HacktivistRO"
-echo -e ""
+echo -e "${BWHITE}			      -By HacktivistRO"
 }
 
 clear
 intro
+echo -e "${BWHITE}Enumerating Subdomains since 2022"
 sleep 3
 echo -e "${CYAN}Installing the tools required for SubSleuth${BWHITE}"
 
